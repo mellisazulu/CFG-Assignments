@@ -1,0 +1,13 @@
+Python Assignment 4 - API Markdown File
+
+Steps:
+
+1. Create a DB using the 'body_focus' file within MySQL workbench
+
+2. Within the 'config_file.py' update with your login details in order to connect to the 'body_focus' DB 
+
+3. Run the 'app.py' file as this will enable connectivity with the API and produce the appropriate web connection/location
+
+4. Run the 'db_utiles.py' file which has a number of different queries that interact with the DB.
+
+5. 'Main.py' is the client side 
